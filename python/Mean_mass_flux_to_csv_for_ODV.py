@@ -27,6 +27,7 @@ lit_thxs_pd = dataset_fetching_func.fetch_df(include_unpublished = False,
                                              exclude_abnormal_234 = False,
                                              )
 # numeric_only: https://stackoverflow.com/questions/69653925/wrong-number-of-items-passed-1-placement-implies-3-pandas-1-1-5
+# change the age intervals below to average 1, 2, and 4 kyrs
 YD = lit_thxs_pd[(lit_thxs_pd['Age (ka BP)']>=11.2) & (lit_thxs_pd['Age (ka BP)']<=12.2)].groupby('Core').mean(numeric_only=True)
 H1 = lit_thxs_pd[(lit_thxs_pd['Age (ka BP)']>=15.6) & (lit_thxs_pd['Age (ka BP)']<=16.6)].groupby('Core').mean(numeric_only=True)
 H2 = lit_thxs_pd[(lit_thxs_pd['Age (ka BP)']>=23.9) & (lit_thxs_pd['Age (ka BP)']<=24.9)].groupby('Core').mean(numeric_only=True)
