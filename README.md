@@ -113,4 +113,6 @@ The following folders store the shapefiles of ice sheet extents during various t
 
 **Ice_discharge_this_study_max_SV_projections.py** - uses the printing output from **lit_thxs_maps_freshwater_HE_max_LGM_diff_SV.py** and generates Figure 4.
 
+**lit_thxs_raw_mass_flux_original_age.py** - generates Figure S5 and exports the mass flux 1-kyr running mean (black line) as **Mass_flux_running_mean.csv**
+
 **dataset_fetching_func.py** - worker script with functions to properly read in the compilation.
