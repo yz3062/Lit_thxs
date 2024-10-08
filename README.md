@@ -6,7 +6,7 @@ This is a public repository containing the data and code used to analyze a compi
 
 ## Guide to the data files
 
-**python/literature_Thxs_compilation_mass_flux_updated.xlsx** - compilation of time series of uranium series isotope records, including new data generated from three cores - EW9303-GGC31 (50° 34.2’ N, 46° 21’W, water depth 1796 m), DY081-GVY005 (58° 36.6’ N, 43° 46.8’ W, water depth 1907 m), and V30-100 (44° 7.02’ N, 32° 30’ W, water depth 3519 m).
+**python/literature_Thxs_compilation_mass_flux.xlsx** - compilation of time series of uranium series isotope records, including new data generated from three cores - EW9303-GGC31 (50° 34.2’ N, 46° 21’W, water depth 1796 m), DY081-GVY005 (58° 36.6’ N, 43° 46.8’ W, water depth 1907 m), and V30-100 (44° 7.02’ N, 32° 30’ W, water depth 3519 m).
 
 **python/Yang2016.xlsx** -- freshwater flux data (Yang et al., 2016) (doi: 10.1038/ncomms10525)
 
