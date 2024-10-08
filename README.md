@@ -2,7 +2,7 @@
 
 This is a public repository containing the data and code used to analyze a compilation of North Atlantic sedimentary uranium series records to reconstruct the ice discharges during Heinrich events. The flowchart below illustrates the workflow for generating publication-ready figures from the raw data.
 
-![Flowchart](https://github.com/yz3062/Lit_thxs/assets/2050617/1cdb757f-03ec-42ff-8b21-471a95895e88)
+![Flowchart](https://github.com/yz3062/Lit_thxs/blob/master/Flowchart.png)
 
 ## Guide to the data files
 
